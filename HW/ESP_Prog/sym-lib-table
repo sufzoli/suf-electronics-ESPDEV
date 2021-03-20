@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ESP_Prog-rescue)(type Legacy)(uri ${KIPRJMOD}/ESP_Prog-rescue.lib)(options "")(descr ""))
+  (lib (name interface)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/interface.lib)(options "")(descr ""))
+)

@@ -64,7 +64,7 @@ F 1 "CONN_01X06" V 1800 3150 50  0000 C CNN
 F 2 "suf_connector_misc:ESP_ISP" H 1700 3150 50  0001 C CNN
 F 3 "" H 1700 3150 50  0000 C CNN
 	1    1700 3150
-	-1   0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L GND #PWR01
